@@ -1,6 +1,6 @@
 Запуск инсталятора под учетной записью Operator.
 
-Severity: 
+Severity: Critical
 
 Priority:
 
